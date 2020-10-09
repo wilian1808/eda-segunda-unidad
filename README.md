@@ -9,9 +9,9 @@
 
 ### 2. Explique con un ejemplo Geometric Near-neighbor Access Tree o Spatial Approximation Tree o Approximating and Eliminating Search Algorithm (escoja el que no expuso).
 
-[Video de la explicación]()
+[Video de la explicación](https://youtu.be/MHBbS012sEM)
 
-[![Spatial Approximation Tree](https://user-images.githubusercontent.com/48990642/95593243-0cc5aa00-0a0f-11eb-9479-695e38599eeb.png)](https://youtu.be/SCe73u7llTU)
+[![Spatial Approximation Tree](https://user-images.githubusercontent.com/48990642/95593243-0cc5aa00-0a0f-11eb-9479-695e38599eeb.png)](https://youtu.be/MHBbS012sEM)
 
 
 ### 3. Explique con un ejemplo como funciona Burkhard Keller Tree y explique como hace la busqueda por simillaridad.
