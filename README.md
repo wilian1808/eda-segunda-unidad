@@ -16,9 +16,9 @@
 
 ### 3. Explique con un ejemplo como funciona Burkhard Keller Tree y explique como hace la busqueda por simillaridad.
 
-[Video de la explicación]()
+[Video de la explicación](https://youtu.be/pfGDjgbwaDc)
 
-[![Burkhard Keller Tree](https://user-images.githubusercontent.com/48990642/95592276-0420a400-0a0e-11eb-90a4-4e17f7d7e249.png)](https://youtu.be/SCe73u7llTU)
+[![Burkhard Keller Tree](https://user-images.githubusercontent.com/48990642/95592276-0420a400-0a0e-11eb-90a4-4e17f7d7e249.png)](https://youtu.be/pfGDjgbwaDc)
 
 
 ### 4. Explique con un ejemplo el tema que le toco exponer (No usar material ya presentado).
