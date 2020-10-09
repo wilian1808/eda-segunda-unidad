@@ -3,9 +3,9 @@
 
 ### 1. Explique con un ejemplo Vantage-Point Trees o Bisector Tree o The M-Tree (escoja el que no expuso).
 
-[Video de la explicación]()
+[Video de la explicación](https://youtu.be/eatCMv_VSQ0)
 
-[![Bisector Tree](https://user-images.githubusercontent.com/48990642/95591810-69c06080-0a0d-11eb-96b8-90846e4e2bc7.png)](https://youtu.be/SCe73u7llTU)
+[![Bisector Tree](https://user-images.githubusercontent.com/48990642/95591810-69c06080-0a0d-11eb-96b8-90846e4e2bc7.png)](https://youtu.be/eatCMv_VSQ0)
 
 ### 2. Explique con un ejemplo Geometric Near-neighbor Access Tree o Spatial Approximation Tree o Approximating and Eliminating Search Algorithm (escoja el que no expuso).
 
